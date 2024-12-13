@@ -1,0 +1,17 @@
+{
+    "Missionary work" : {
+        "price" : 13,
+        "characteristics" : ["everywhere"],
+        "description" : "Preachers and all warriors gather to educate the people of the most distant countries. There are so many souls that still need to be saved.",
+        "children" : [
+            {
+                "Master II" : {
+                    "price" : 11,
+                    "characteristics" : [""],
+                    "description" : "",
+                    "children" : []
+                }
+            }
+        ]
+    }
+}

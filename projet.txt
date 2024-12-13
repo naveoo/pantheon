@@ -1,0 +1,30 @@
+### Choix du modèle de religion
+
+Monotheiste
+Spiritualisme
+Paganisme
+Chamanisme
+Sectarisme
+Culte
+Panthéon
+
+
+### Choix du nom de la religion
+
+### Choix de la zone de départ
+Premier temple
+
+### 16 régions
+
+## A definir
+
+Les arbres de compétences de la religion, sont ils différents selon les archétypes ?
+
+
+
+Racine
+    enfant 1
+        petit enfant 1
+            arrière petit enfant 1
+    enfant 2
+        petit enfant 2
